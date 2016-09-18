@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WasteRZ</string>
+
+    <!-- Names of parts of menus of app -->
+    <string name="overview">Overview</string>
+    <string name="contribute">Contribute</string>
+    <string name="settings">Settings</string>
+
+    <string-array name="waste_types">
+        <item>Mégot</item>
+        <item>Excrément</item>
+        <item>Tag</item>
+        <item>Déchet quelconque</item>
+        <item>Poubelle pleine</item>
+    </string-array>
+</resources>
